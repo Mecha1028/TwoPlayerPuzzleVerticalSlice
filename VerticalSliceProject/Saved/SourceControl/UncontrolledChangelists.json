@@ -243,7 +243,10 @@
 				"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
-				"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/TopDown/Lvl_TopDown.umap"
+				"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/TopDown/Lvl_TopDown.umap",
+				"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/BP/BUPDHPEMHC4VKWBMQ8RZHT.uasset",
+				"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/1/B6/DI2S6RQ1SRGDFKWWHC6SB6.uasset",
+				"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/TopDown/Blueprints/GM_DefaultGameMode.uasset"
 			]
 		}
 	]

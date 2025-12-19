@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VerticalSliceProject-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Intermediate/Build/Win64/x64/VerticalSliceProjectEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.h.obj"
+"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/VerticalSliceProject/Module.VerticalSliceProject.cpp.obj"
+"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/VerticalSliceProject/VerticalSliceProjectGameMode.cpp.obj"
+"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/VerticalSliceProject/Default.rc2.res"
+/OUT:"E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/VerticalSliceProject/UnrealEditor-VerticalSliceProject-Win64-DebugGame.lib"

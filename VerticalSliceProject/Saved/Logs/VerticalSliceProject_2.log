@@ -1950,3 +1950,579 @@ Detoured run took 1.5s
 [2025.12.19-12.25.45:703][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1024.541992
 [2025.12.19-12.25.46:703][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.19-12.25.46:703][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1025.209595, Update Interval: 323.595703
+[2025.12.19-12.27.47:378][187]Cmd: SELECT NONE
+[2025.12.19-12.31.24:298][377]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1363.140259
+[2025.12.19-12.31.25:297][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-12.31.25:297][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1363.805542, Update Interval: 324.806061
+[2025.12.19-12.37.18:199][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1717.041748
+[2025.12.19-12.37.19:200][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-12.37.19:200][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1717.708252, Update Interval: 357.167267
+[2025.12.19-12.44.07:933][497]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2126.776611
+[2025.12.19-12.44.08:933][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-12.44.08:933][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2127.442871, Update Interval: 332.811676
+[2025.12.19-12.45.27:611][740]Cmd: SELECT NONE
+[2025.12.19-12.48.21:461][407]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.19-12.48.22:106][453]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.19-12.48.23:305][584]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.12.19-12.48.23:790][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-12.48.23:864][636]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/C/BP/BUPDHPEMHC4VKWBMQ8RZHT
+[2025.12.19-12.48.23:864][636]LogSavePackage: Moving 'E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Saved/BUPDHPEMHC4VKWBMQ8RZHTC1BB756949C7E48FD685298B64FECAD7.tmp' to 'E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/BP/BUPDHPEMHC4VKWBMQ8RZHT.uasset'
+[2025.12.19-12.48.23:878][636]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Lvl_TopDown/1/B6/DI2S6RQ1SRGDFKWWHC6SB6
+[2025.12.19-12.48.23:878][636]LogSavePackage: Moving 'E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Saved/DI2S6RQ1SRGDFKWWHC6SB63696F8F84F37BFD3D877A18C7A1F92C8.tmp' to 'E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/__ExternalActors__/TopDown/Lvl_TopDown/1/B6/DI2S6RQ1SRGDFKWWHC6SB6.uasset'
+[2025.12.19-12.48.23:891][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.079 ms (total: 376.105 ms)
+[2025.12.19-12.48.23:928][636]LogContentValidation: Display: Starting to validate 2 assets
+[2025.12.19-12.48.23:928][636]LogContentValidation: Enabled validators:
+[2025.12.19-12.48.23:928][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-12.48.23:928][636]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-12.48.23:928][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-12.48.23:928][636]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-12.48.23:928][636]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-12.48.23:928][636]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-12.48.23:940][636]AssetCheck: /Game/TopDown/Lvl_TopDown Validating asset
+[2025.12.19-12.48.24:006][636]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.19-12.48.40:125][432]LogSlate: Took 0.018306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.12.19-12.48.55:130][ 97]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/GM_DefaultGameMode.GM_DefaultGameMode
+[2025.12.19-12.48.55:148][ 97]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.12.19-12.48.55:409][ 97]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.48.58:432][ 97]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.12.19-12.48.58:433][ 97]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.12.19-12.48.59:083][ 97]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2025.12.19-12.49.02:426][299]LogSlate: Window 'GM_DefaultGameMode' being destroyed
+[2025.12.19-12.49.02:441][299]LogSlate: Window 'GM_DefaultGameMode' being destroyed
+[2025.12.19-12.49.02:494][299]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.49.02:494][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.49.02:835][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.12.19-12.49.03:268][348]LogSlate: Window 'Content Browser' being destroyed
+[2025.12.19-12.49.03:280][348]LogSlate: Window 'Content Browser' being destroyed
+[2025.12.19-12.49.04:377][455]Cmd: SELECT NONE
+[2025.12.19-12.49.07:769][822]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/GM_DefaultGameMode.GM_DefaultGameMode
+[2025.12.19-12.49.07:769][822]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.12.19-12.49.11:263][128]LogSlate: Window 'GM_DefaultGameMode' being destroyed
+[2025.12.19-12.49.11:858][189]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.49.11:858][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.49.11:871][189]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/GM_DefaultGameMode.GM_DefaultGameMode
+[2025.12.19-12.49.11:871][189]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.12.19-12.49.12:335][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.12.19-12.49.16:701][559]LogSlate: Window 'GM_DefaultGameMode' being destroyed
+[2025.12.19-12.49.17:509][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.19-12.49.17:543][655]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/GM_DefaultGameMode] ([2] browsable assets)...
+[2025.12.19-12.49.17:543][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/GM_DefaultGameMode]
+[2025.12.19-12.49.17:543][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/GM_DefaultGameMode" FILE="E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/TopDown/Blueprints/GM_DefaultGameMode.uasset" SILENT=true
+[2025.12.19-12.49.17:607][655]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/GM_DefaultGameMode
+[2025.12.19-12.49.17:607][655]LogSavePackage: Moving 'E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Saved/GM_DefaultGameModeC0F20E5846AE42953259B997CC6CF448.tmp' to 'E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Content/TopDown/Blueprints/GM_DefaultGameMode.uasset'
+[2025.12.19-12.49.17:621][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.473 ms (total: 487.578 ms)
+[2025.12.19-12.49.17:653][655]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.19-12.49.17:653][655]LogContentValidation: Enabled validators:
+[2025.12.19-12.49.17:653][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.19-12.49.17:653][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.19-12.49.17:653][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.19-12.49.17:653][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.19-12.49.17:653][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.19-12.49.17:653][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.19-12.49.17:653][655]AssetCheck: /Game/TopDown/Blueprints/GM_DefaultGameMode Validating asset
+[2025.12.19-12.49.17:671][655]LogSourceControl: Display: Uncontrolled Changelist persistency file saved E:/temp/TwoPlayerPuzzleVerticalSlice/VerticalSliceProject/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.19-12.49.23:928][274]LogJson: Warning: Field CookIncremental was not found.
+[2025.12.19-12.49.23:928][274]LogJson: Warning: Json Value of type 'Null' used as a 'Boolean'.
+[2025.12.19-12.49.25:208][274]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.19-12.49.28:547][382]LogStreaming: Display: FlushAsyncLoading(771): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:547][382]LogStreaming: Warning: LoadPackage: SkipPackage: /Game/TopDown/Blueprints/BP_TopDownGameMode (0x362F4140A7372532) - The package to load does not exist on disk or in the loader
+[2025.12.19-12.49.28:547][382]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode_C'
+[2025.12.19-12.49.28:570][383]LogStreaming: Display: FlushAsyncLoading(777): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:581][384]LogStreaming: Display: FlushAsyncLoading(782): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:594][385]LogStreaming: Display: FlushAsyncLoading(787): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:605][386]LogStreaming: Display: FlushAsyncLoading(792): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:615][387]LogStreaming: Display: FlushAsyncLoading(797): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:625][388]LogStreaming: Display: FlushAsyncLoading(802): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:631][389]LogStreaming: Display: FlushAsyncLoading(807): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:640][390]LogStreaming: Display: FlushAsyncLoading(812): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:648][391]LogStreaming: Display: FlushAsyncLoading(817): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:657][392]LogStreaming: Display: FlushAsyncLoading(822): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:666][393]LogStreaming: Display: FlushAsyncLoading(827): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:673][394]LogStreaming: Display: FlushAsyncLoading(832): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:683][395]LogStreaming: Display: FlushAsyncLoading(837): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:697][396]LogStreaming: Display: FlushAsyncLoading(842): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:740][397]LogStreaming: Display: FlushAsyncLoading(847): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:757][398]LogStreaming: Display: FlushAsyncLoading(852): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:773][398]LogPSOHitching: Encountered 250 PSO creation hitches so far (95 graphics, 155 compute). 0 of them were precached.
+[2025.12.19-12.49.28:793][399]LogStreaming: Display: FlushAsyncLoading(857): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:803][400]LogStreaming: Display: FlushAsyncLoading(862): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:813][401]LogStreaming: Display: FlushAsyncLoading(867): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:822][402]LogStreaming: Display: FlushAsyncLoading(872): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:831][403]LogStreaming: Display: FlushAsyncLoading(877): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:840][404]LogStreaming: Display: FlushAsyncLoading(882): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:848][405]LogStreaming: Display: FlushAsyncLoading(887): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:855][406]LogStreaming: Display: FlushAsyncLoading(892): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:865][407]LogStreaming: Display: FlushAsyncLoading(897): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:873][408]LogStreaming: Display: FlushAsyncLoading(902): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:882][409]LogStreaming: Display: FlushAsyncLoading(907): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:890][410]LogStreaming: Display: FlushAsyncLoading(912): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:903][411]LogStreaming: Display: FlushAsyncLoading(917): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:922][412]LogStreaming: Display: FlushAsyncLoading(922): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:969][413]LogStreaming: Display: FlushAsyncLoading(927): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.28:988][414]LogStreaming: Display: FlushAsyncLoading(932): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:000][415]LogStreaming: Display: FlushAsyncLoading(937): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:018][416]LogStreaming: Display: FlushAsyncLoading(942): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:033][417]LogStreaming: Display: FlushAsyncLoading(947): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:044][418]LogStreaming: Display: FlushAsyncLoading(952): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:057][419]LogStreaming: Display: FlushAsyncLoading(957): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:067][420]LogStreaming: Display: FlushAsyncLoading(962): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:077][421]LogStreaming: Display: FlushAsyncLoading(967): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:084][422]LogStreaming: Display: FlushAsyncLoading(972): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:093][423]LogStreaming: Display: FlushAsyncLoading(977): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:101][424]LogStreaming: Display: FlushAsyncLoading(982): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:114][425]LogStreaming: Display: FlushAsyncLoading(987): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:123][426]LogStreaming: Display: FlushAsyncLoading(992): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:135][427]LogStreaming: Display: FlushAsyncLoading(997): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:143][428]LogStreaming: Display: FlushAsyncLoading(1002): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:151][429]LogStreaming: Display: FlushAsyncLoading(1007): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:160][430]LogStreaming: Display: FlushAsyncLoading(1012): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:169][431]LogStreaming: Display: FlushAsyncLoading(1017): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:181][432]LogStreaming: Display: FlushAsyncLoading(1022): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:189][433]LogStreaming: Display: FlushAsyncLoading(1027): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:198][434]LogStreaming: Display: FlushAsyncLoading(1032): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:211][435]LogStreaming: Display: FlushAsyncLoading(1037): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:251][436]LogStreaming: Display: FlushAsyncLoading(1042): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:271][437]LogStreaming: Display: FlushAsyncLoading(1047): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:286][438]LogStreaming: Display: FlushAsyncLoading(1052): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:293][439]LogStreaming: Display: FlushAsyncLoading(1057): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:333][440]LogStreaming: Display: FlushAsyncLoading(1062): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:343][441]LogStreaming: Display: FlushAsyncLoading(1067): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:353][442]LogStreaming: Display: FlushAsyncLoading(1072): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:409][443]LogStreaming: Display: FlushAsyncLoading(1090): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:417][444]LogStreaming: Display: FlushAsyncLoading(1103): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:432][445]LogStreaming: Display: FlushAsyncLoading(1129): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:443][446]LogStreaming: Display: FlushAsyncLoading(1142): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:453][447]LogStreaming: Display: FlushAsyncLoading(1155): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:461][448]LogStreaming: Display: FlushAsyncLoading(1168): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:469][449]LogStreaming: Display: FlushAsyncLoading(1181): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:479][450]LogStreaming: Display: FlushAsyncLoading(1194): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:488][451]LogStreaming: Display: FlushAsyncLoading(1207): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:497][452]LogStreaming: Display: FlushAsyncLoading(1220): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:507][453]LogStreaming: Display: FlushAsyncLoading(1233): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:521][454]LogStreaming: Display: FlushAsyncLoading(1246): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:531][455]LogStreaming: Display: FlushAsyncLoading(1259): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:541][456]LogStreaming: Display: FlushAsyncLoading(1272): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:551][457]LogStreaming: Display: FlushAsyncLoading(1285): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:558][458]LogStreaming: Display: FlushAsyncLoading(1298): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:567][459]LogStreaming: Display: FlushAsyncLoading(1311): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:576][460]LogStreaming: Display: FlushAsyncLoading(1324): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:583][461]LogStreaming: Display: FlushAsyncLoading(1337): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:595][462]LogStreaming: Display: FlushAsyncLoading(1350): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:603][463]LogStreaming: Display: FlushAsyncLoading(1363): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:617][464]LogStreaming: Display: FlushAsyncLoading(1376): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:627][465]LogStreaming: Display: FlushAsyncLoading(1389): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:638][466]LogStreaming: Display: FlushAsyncLoading(1402): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:648][467]LogStreaming: Display: FlushAsyncLoading(1415): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:658][468]LogStreaming: Display: FlushAsyncLoading(1428): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:673][469]LogStreaming: Display: FlushAsyncLoading(1441): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:683][470]LogStreaming: Display: FlushAsyncLoading(1454): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:692][471]LogStreaming: Display: FlushAsyncLoading(1467): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:706][472]LogStreaming: Display: FlushAsyncLoading(1480): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:719][473]LogStreaming: Display: FlushAsyncLoading(1493): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:731][474]LogStreaming: Display: FlushAsyncLoading(1506): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:741][475]LogStreaming: Display: FlushAsyncLoading(1519): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:750][476]LogStreaming: Display: FlushAsyncLoading(1532): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:763][477]LogStreaming: Display: FlushAsyncLoading(1545): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:773][478]LogStreaming: Display: FlushAsyncLoading(1558): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:786][479]LogStreaming: Display: FlushAsyncLoading(1571): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:794][480]LogStreaming: Display: FlushAsyncLoading(1584): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:803][481]LogStreaming: Display: FlushAsyncLoading(1597): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:810][482]LogStreaming: Display: FlushAsyncLoading(1610): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:820][483]LogStreaming: Display: FlushAsyncLoading(1623): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:827][484]LogStreaming: Display: FlushAsyncLoading(1636): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:835][485]LogStreaming: Display: FlushAsyncLoading(1649): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:846][486]LogStreaming: Display: FlushAsyncLoading(1662): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:855][487]LogStreaming: Display: FlushAsyncLoading(1675): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:866][488]LogStreaming: Display: FlushAsyncLoading(1688): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:881][489]LogStreaming: Display: FlushAsyncLoading(1701): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:923][490]LogStreaming: Display: FlushAsyncLoading(1714): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:942][491]LogStreaming: Display: FlushAsyncLoading(1727): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:952][492]LogStreaming: Display: FlushAsyncLoading(1740): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:965][493]LogStreaming: Display: FlushAsyncLoading(1753): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:973][494]LogStreaming: Display: FlushAsyncLoading(1766): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:983][495]LogStreaming: Display: FlushAsyncLoading(1779): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.29:993][496]LogStreaming: Display: FlushAsyncLoading(1792): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:003][497]LogStreaming: Display: FlushAsyncLoading(1805): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:013][498]LogStreaming: Display: FlushAsyncLoading(1818): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:021][499]LogStreaming: Display: FlushAsyncLoading(1831): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:033][500]LogStreaming: Display: FlushAsyncLoading(1844): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:042][501]LogStreaming: Display: FlushAsyncLoading(1857): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:053][502]LogStreaming: Display: FlushAsyncLoading(1870): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:063][503]LogStreaming: Display: FlushAsyncLoading(1883): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:072][504]LogStreaming: Display: FlushAsyncLoading(1896): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:080][505]LogStreaming: Display: FlushAsyncLoading(1909): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:090][506]LogStreaming: Display: FlushAsyncLoading(1922): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:102][507]LogStreaming: Display: FlushAsyncLoading(1935): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:111][508]LogStreaming: Display: FlushAsyncLoading(1948): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:122][509]LogStreaming: Display: FlushAsyncLoading(1961): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:133][510]LogStreaming: Display: FlushAsyncLoading(1974): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:144][511]LogStreaming: Display: FlushAsyncLoading(1987): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:153][512]LogStreaming: Display: FlushAsyncLoading(2000): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:161][513]LogStreaming: Display: FlushAsyncLoading(2013): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:170][514]LogStreaming: Display: FlushAsyncLoading(2026): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:179][515]LogStreaming: Display: FlushAsyncLoading(2039): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:188][516]LogStreaming: Display: FlushAsyncLoading(2052): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:201][517]LogStreaming: Display: FlushAsyncLoading(2065): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:213][518]LogStreaming: Display: FlushAsyncLoading(2078): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:222][519]LogStreaming: Display: FlushAsyncLoading(2091): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:231][520]LogStreaming: Display: FlushAsyncLoading(2104): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:241][521]LogStreaming: Display: FlushAsyncLoading(2117): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:248][522]LogStreaming: Display: FlushAsyncLoading(2130): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:258][523]LogStreaming: Display: FlushAsyncLoading(2144): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:267][524]LogStreaming: Display: FlushAsyncLoading(2158): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:275][525]LogStreaming: Display: FlushAsyncLoading(2172): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:284][526]LogStreaming: Display: FlushAsyncLoading(2186): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:293][527]LogStreaming: Display: FlushAsyncLoading(2200): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:302][528]LogStreaming: Display: FlushAsyncLoading(2214): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:311][529]LogStreaming: Display: FlushAsyncLoading(2228): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:326][530]LogStreaming: Display: FlushAsyncLoading(2244): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:338][531]LogStreaming: Display: FlushAsyncLoading(2259): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:348][532]LogStreaming: Display: FlushAsyncLoading(2274): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:359][533]LogStreaming: Display: FlushAsyncLoading(2289): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:368][534]LogStreaming: Display: FlushAsyncLoading(2304): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:379][535]LogStreaming: Display: FlushAsyncLoading(2319): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:387][536]LogStreaming: Display: FlushAsyncLoading(2334): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:396][537]LogStreaming: Display: FlushAsyncLoading(2349): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:406][538]LogStreaming: Display: FlushAsyncLoading(2364): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:430][539]LogStreaming: Display: FlushAsyncLoading(2380): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:484][540]LogStreaming: Display: FlushAsyncLoading(2393): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:507][541]LogStreaming: Display: FlushAsyncLoading(2409): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:527][542]LogStreaming: Display: FlushAsyncLoading(2424): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:535][543]LogStreaming: Display: FlushAsyncLoading(2439): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:543][544]LogStreaming: Display: FlushAsyncLoading(2454): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:552][545]LogStreaming: Display: FlushAsyncLoading(2469): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:561][546]LogStreaming: Display: FlushAsyncLoading(2484): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:569][547]LogStreaming: Display: FlushAsyncLoading(2499): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:577][548]LogStreaming: Display: FlushAsyncLoading(2514): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:586][549]LogStreaming: Display: FlushAsyncLoading(2529): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:593][550]LogStreaming: Display: FlushAsyncLoading(2544): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:602][551]LogStreaming: Display: FlushAsyncLoading(2559): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:610][552]LogStreaming: Display: FlushAsyncLoading(2574): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:619][553]LogStreaming: Display: FlushAsyncLoading(2589): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:627][554]LogStreaming: Display: FlushAsyncLoading(2604): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:635][555]LogStreaming: Display: FlushAsyncLoading(2619): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:643][556]LogStreaming: Display: FlushAsyncLoading(2634): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:653][557]LogStreaming: Display: FlushAsyncLoading(2649): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:661][558]LogStreaming: Display: FlushAsyncLoading(2664): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:669][559]LogStreaming: Display: FlushAsyncLoading(2679): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:677][560]LogStreaming: Display: FlushAsyncLoading(2694): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:685][561]LogStreaming: Display: FlushAsyncLoading(2709): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:694][562]LogStreaming: Display: FlushAsyncLoading(2724): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:703][563]LogStreaming: Display: FlushAsyncLoading(2739): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:710][564]LogStreaming: Display: FlushAsyncLoading(2754): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:718][565]LogStreaming: Display: FlushAsyncLoading(2769): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:727][566]LogStreaming: Display: FlushAsyncLoading(2784): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:736][567]LogStreaming: Display: FlushAsyncLoading(2799): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:743][568]LogStreaming: Display: FlushAsyncLoading(2814): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:752][569]LogStreaming: Display: FlushAsyncLoading(2829): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:761][570]LogStreaming: Display: FlushAsyncLoading(2844): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:769][571]LogStreaming: Display: FlushAsyncLoading(2859): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:777][572]LogStreaming: Display: FlushAsyncLoading(2874): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:785][573]LogStreaming: Display: FlushAsyncLoading(2889): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:793][574]LogStreaming: Display: FlushAsyncLoading(2904): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:803][575]LogStreaming: Display: FlushAsyncLoading(2919): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:810][576]LogStreaming: Display: FlushAsyncLoading(2934): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:818][577]LogStreaming: Display: FlushAsyncLoading(2949): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:828][578]LogStreaming: Display: FlushAsyncLoading(2964): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:836][579]LogStreaming: Display: FlushAsyncLoading(2979): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:844][580]LogStreaming: Display: FlushAsyncLoading(2994): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:853][581]LogStreaming: Display: FlushAsyncLoading(3009): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:860][582]LogStreaming: Display: FlushAsyncLoading(3024): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:869][583]LogStreaming: Display: FlushAsyncLoading(3039): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:877][584]LogStreaming: Display: FlushAsyncLoading(3054): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:886][585]LogStreaming: Display: FlushAsyncLoading(3069): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:893][586]LogStreaming: Display: FlushAsyncLoading(3084): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:901][587]LogStreaming: Display: FlushAsyncLoading(3099): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:910][588]LogStreaming: Display: FlushAsyncLoading(3114): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:918][589]LogStreaming: Display: FlushAsyncLoading(3129): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:926][590]LogStreaming: Display: FlushAsyncLoading(3144): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:934][591]LogStreaming: Display: FlushAsyncLoading(3159): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:943][592]LogStreaming: Display: FlushAsyncLoading(3174): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:951][593]LogStreaming: Display: FlushAsyncLoading(3189): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:960][594]LogStreaming: Display: FlushAsyncLoading(3204): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:967][595]LogStreaming: Display: FlushAsyncLoading(3219): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:976][596]LogStreaming: Display: FlushAsyncLoading(3234): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:984][597]LogStreaming: Display: FlushAsyncLoading(3249): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.30:993][598]LogStreaming: Display: FlushAsyncLoading(3264): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:001][599]LogStreaming: Display: FlushAsyncLoading(3279): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:010][600]LogStreaming: Display: FlushAsyncLoading(3294): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:018][601]LogStreaming: Display: FlushAsyncLoading(3309): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:026][602]LogStreaming: Display: FlushAsyncLoading(3324): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:037][603]LogStreaming: Display: FlushAsyncLoading(3339): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:044][604]LogStreaming: Display: FlushAsyncLoading(3352): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:053][605]LogStreaming: Display: FlushAsyncLoading(3365): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:061][606]LogStreaming: Display: FlushAsyncLoading(3378): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:069][607]LogStreaming: Display: FlushAsyncLoading(3391): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:078][608]LogStreaming: Display: FlushAsyncLoading(3404): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:086][609]LogStreaming: Display: FlushAsyncLoading(3417): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:095][610]LogStreaming: Display: FlushAsyncLoading(3430): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:103][611]LogStreaming: Display: FlushAsyncLoading(3443): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:112][612]LogStreaming: Display: FlushAsyncLoading(3456): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:120][613]LogStreaming: Display: FlushAsyncLoading(3469): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:128][614]LogStreaming: Display: FlushAsyncLoading(3482): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:136][615]LogStreaming: Display: FlushAsyncLoading(3495): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:143][616]LogStreaming: Display: FlushAsyncLoading(3508): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:153][617]LogStreaming: Display: FlushAsyncLoading(3521): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:160][618]LogStreaming: Display: FlushAsyncLoading(3534): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:169][619]LogStreaming: Display: FlushAsyncLoading(3547): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:177][620]LogStreaming: Display: FlushAsyncLoading(3560): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:189][621]LogStreaming: Display: FlushAsyncLoading(3573): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:201][622]LogStreaming: Display: FlushAsyncLoading(3586): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:210][623]LogStreaming: Display: FlushAsyncLoading(3599): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:216][624]LogStreaming: Display: FlushAsyncLoading(3612): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:224][625]LogStreaming: Display: FlushAsyncLoading(3625): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:233][626]LogStreaming: Display: FlushAsyncLoading(3638): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:242][627]LogStreaming: Display: FlushAsyncLoading(3651): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:250][628]LogStreaming: Display: FlushAsyncLoading(3664): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:257][629]LogStreaming: Display: FlushAsyncLoading(3677): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:266][630]LogStreaming: Display: FlushAsyncLoading(3690): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:275][631]LogStreaming: Display: FlushAsyncLoading(3703): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:283][632]LogStreaming: Display: FlushAsyncLoading(3716): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:294][633]LogStreaming: Display: FlushAsyncLoading(3729): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:313][634]LogStreaming: Display: FlushAsyncLoading(3742): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:319][635]LogStreaming: Display: FlushAsyncLoading(3755): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:327][636]LogStreaming: Display: FlushAsyncLoading(3768): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:336][637]LogStreaming: Display: FlushAsyncLoading(3781): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:344][638]LogStreaming: Display: FlushAsyncLoading(3794): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:353][639]LogStreaming: Display: FlushAsyncLoading(3807): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:361][640]LogStreaming: Display: FlushAsyncLoading(3820): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:370][641]LogStreaming: Display: FlushAsyncLoading(3833): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:377][642]LogStreaming: Display: FlushAsyncLoading(3846): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:387][643]LogStreaming: Display: FlushAsyncLoading(3859): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:394][644]LogStreaming: Display: FlushAsyncLoading(3872): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:403][645]LogStreaming: Display: FlushAsyncLoading(3885): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:414][646]LogStreaming: Display: FlushAsyncLoading(3898): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:430][647]LogStreaming: Display: FlushAsyncLoading(3911): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:437][648]LogStreaming: Display: FlushAsyncLoading(3924): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:444][649]LogStreaming: Display: FlushAsyncLoading(3937): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:453][650]LogStreaming: Display: FlushAsyncLoading(3950): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:462][651]LogStreaming: Display: FlushAsyncLoading(3963): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:469][652]LogStreaming: Display: FlushAsyncLoading(3976): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:480][653]LogStreaming: Display: FlushAsyncLoading(3989): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:485][654]LogStreaming: Display: FlushAsyncLoading(4002): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:495][655]LogStreaming: Display: FlushAsyncLoading(4015): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:503][656]LogStreaming: Display: FlushAsyncLoading(4028): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:510][657]LogStreaming: Display: FlushAsyncLoading(4041): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:519][658]LogStreaming: Display: FlushAsyncLoading(4054): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:528][659]LogStreaming: Display: FlushAsyncLoading(4067): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:536][660]LogStreaming: Display: FlushAsyncLoading(4080): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:544][661]LogStreaming: Display: FlushAsyncLoading(4093): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:553][662]LogStreaming: Display: FlushAsyncLoading(4106): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:560][663]LogStreaming: Display: FlushAsyncLoading(4119): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:570][664]LogStreaming: Display: FlushAsyncLoading(4132): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:578][665]LogStreaming: Display: FlushAsyncLoading(4145): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:586][666]LogStreaming: Display: FlushAsyncLoading(4158): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:595][667]LogStreaming: Display: FlushAsyncLoading(4171): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:603][668]LogStreaming: Display: FlushAsyncLoading(4184): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:612][669]LogStreaming: Display: FlushAsyncLoading(4197): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:619][670]LogStreaming: Display: FlushAsyncLoading(4210): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:628][671]LogStreaming: Display: FlushAsyncLoading(4223): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:638][672]LogStreaming: Display: FlushAsyncLoading(4236): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:653][673]LogStreaming: Display: FlushAsyncLoading(4249): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:662][674]LogStreaming: Display: FlushAsyncLoading(4262): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:670][675]LogStreaming: Display: FlushAsyncLoading(4275): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:677][676]LogStreaming: Display: FlushAsyncLoading(4288): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:686][677]LogStreaming: Display: FlushAsyncLoading(4301): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:695][678]LogStreaming: Display: FlushAsyncLoading(4314): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:703][679]LogStreaming: Display: FlushAsyncLoading(4327): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:711][680]LogStreaming: Display: FlushAsyncLoading(4340): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:719][681]LogStreaming: Display: FlushAsyncLoading(4353): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:728][682]LogStreaming: Display: FlushAsyncLoading(4366): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:736][683]LogStreaming: Display: FlushAsyncLoading(4379): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:744][684]LogStreaming: Display: FlushAsyncLoading(4392): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:756][685]LogStreaming: Display: FlushAsyncLoading(4405): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:762][686]LogStreaming: Display: FlushAsyncLoading(4418): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:770][687]LogStreaming: Display: FlushAsyncLoading(4431): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:778][688]LogStreaming: Display: FlushAsyncLoading(4444): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:786][689]LogStreaming: Display: FlushAsyncLoading(4457): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:794][690]LogStreaming: Display: FlushAsyncLoading(4470): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:804][691]LogStreaming: Display: FlushAsyncLoading(4483): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:812][692]LogStreaming: Display: FlushAsyncLoading(4496): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:819][693]LogStreaming: Display: FlushAsyncLoading(4509): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.31:829][694]LogStreaming: Display: FlushAsyncLoading(4522): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.19-12.49.33:950][917]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.19-12.49.33:961][917]LogSlate: Window 'Project Settings' being destroyed
+[2025.12.19-12.49.35:340][ 48]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.19-12.49.35:346][ 48]LogContentBundle: [Lvl_TopDown(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.12.19-12.49.35:346][ 48]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' started...
+[2025.12.19-12.49.35:347][ 48]LogWorldPartition: Display: GenerateStreaming for 'Lvl_TopDown' took 749 us (total: 24.184 ms)
+[2025.12.19-12.49.35:349][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.19-12.49.35:349][ 48]LogPlayLevel: Creating play world package: /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.12.19-12.49.35:354][ 48]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.12.19-12.49.35:356][ 48]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.310 ms (total: 3.840 ms)
+[2025.12.19-12.49.35:356][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007988s)
+[2025.12.19-12.49.35:356][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Lvl_TopDown.Lvl_TopDown to /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown (0.008035s)
+[2025.12.19-12.49.35:384][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.12.19-12.49.35:388][ 48]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_TopDown
+[2025.12.19-12.49.35:389][ 48]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_TopDown)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.12.19-12.49.35:389][ 48]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.12.19-12.49.35:389][ 48]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.12.19-12.49.35:389][ 48]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.12.19-12.49.35:391][ 48]LogWorldPartition: Display: WorldPartition initialize took 1.751 ms (total: 312.660 ms)
+[2025.12.19-12.49.35:391][ 48]LogPlayLevel: PIE: World Init took: (0.003700s)
+[2025.12.19-12.49.35:393][ 48]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.12.19-12.49.35:393][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.19-12.49.35:393][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.19-12.49.35:393][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.19-12.49.35:393][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.19-12.49.35:393][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.19-12.49.35:393][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.19-12.49.35:393][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.19-12.49.35:393][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.19-12.49.35:393][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.19-12.49.35:393][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.19-12.49.35:393][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.19-12.49.35:395][ 48]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.19-12.49.35:428][ 48]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.12.19-12.49.35:428][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.19-12.49.35:428][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.19-12.49.35:428][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.19-12.49.35:428][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.12.19-12.49.35:428][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.12.19-12.49.35:431][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.12.19-12.49.35:431][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.12.19-12.49.35:431][ 48]LogInit: FAudioDevice initialized with ID 4.
+[2025.12.19-12.49.35:431][ 48]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_TopDown'.
+[2025.12.19-12.49.35:431][ 48]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.19-12.49.35:437][ 48]LogLoad: Game class is 'GM_DefaultGameMode_C'
+[2025.12.19-12.49.35:440][ 48]LogWorld: Bringing World /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown up for play (max tick rate 0) at 2025.12.19-12.49.35
+[2025.12.19-12.49.35:440][ 48]LogWorld: Bringing up level for play took: 0.002848
+[2025.12.19-12.49.35:443][ 48]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.12.19-12.49.35:470][ 48]PIE: Server logged in
+[2025.12.19-12.49.35:473][ 48]PIE: Play in editor total start time 0.126 seconds.
+[2025.12.19-12.49.35:587][ 49]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.19-12.49.38:034][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-12.49.38:034][259]LogWorld: BeginTearingDown for /Game/TopDown/UEDPIE_0_Lvl_TopDown
+[2025.12.19-12.49.38:034][259]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.19-12.49.38:034][259]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.49.38:035][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.49.38:035][259]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/UEDPIE_0_Lvl_TopDown.Lvl_TopDown
+[2025.12.19-12.49.38:035][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.19-12.49.38:041][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.49.38:066][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.12.19-12.49.38:066][259]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.12.19-12.49.38:066][259]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.12.19-12.49.38:068][259]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.12.19-12.49.38:080][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.19-12.49.38:083][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.12.19-12.49.38:118][260]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.12.19-12.50.22:476][880]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.12.19-12.50.33:823][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2512.651611
+[2025.12.19-12.50.34:823][918]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.19-12.50.34:823][918]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2513.318848, Update Interval: 327.318329
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: ================================================
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Total job queries 494, among them cache hits 26 (5.26%), DDC hits 368 (74.49%), Duplicates 74 (14.98%)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Tracking 394 distinct input hashes that result in 291 distinct outputs (73.86%)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: RAM used: 3.70 MiB of 1.60 GiB budget. Usage: 0.23%
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Shaders Compiled: 26
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Average time worker was idle: 747.22 s
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.59 s
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Job execution time: average 2.02 s, max 4.13 s
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Job life time (pending + execution): average 2.15 s, max 4.17
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Shader code size: total 279.379 KiB, numShaders 29, average 9.633 KiB, min 3.035 KiB, max 22.055 KiB
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.30 s
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Average processing rate: 1.82 jobs/sec
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Total thread time: 20.869 s
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Total thread preprocess time: 7.017 s
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Percentage time preprocessing: 33.63%
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Effective parallelization: 1.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.182474
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 1.25 sec, max 1.47 sec, min 0.97 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.24 sec, max 1.24 sec, min 1.24 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 0.97 sec, max 1.17 sec, min 0.81 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 24.01% of total time (compiled    4 times, average 1.25 sec, max 1.47 sec, min 0.97 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.66% of total time (compiled    4 times, average 0.97 sec, max 1.17 sec, min 0.81 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.92% of total time (compiled    4 times, average 0.57 sec, max 0.71 sec, min 0.44 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                                                  FVelocityPS - 8.17% of total time (compiled    2 times, average 0.85 sec, max 0.92 sec, min 0.79 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 7.36% of total time (compiled    1 times, average 1.54 sec, max 1.54 sec, min 1.54 sec)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: === Material stats ===
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Materials Translated:    147
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Material Translation Only: 0.06 s (29%)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: Material Cache Hits: 18 (12%)
+[2025.12.19-12.50.59:487][992]LogShaderCompilers: Display: ================================================
+[2025.12.19-12.51.53:165][153]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.12.19-12.51.53:165][153]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.12.19-12.52.40:186][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.12.19-12.52.40:221][379]LogStall: Shutdown...
+[2025.12.19-12.52.40:221][379]LogStall: Shutdown complete.
+[2025.12.19-12.52.40:253][379]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.52.40:253][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.52.40:376][379]LogSlate: Window 'VerticalSliceProject - Unreal Editor' being destroyed
+[2025.12.19-12.52.40:766][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.12.19-12.52.40:782][379]Cmd: QUIT_EDITOR
+[2025.12.19-12.52.40:783][380]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.19-12.52.40:845][380]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.19-12.52.40:870][380]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.19-12.52.40:870][380]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.19-12.52.40:909][380]LogWorld: UWorld::CleanupWorld for Lvl_TopDown, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.52.40:909][380]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.12.19-12.52.40:909][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.52.40:909][380]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Lvl_TopDown.Lvl_TopDown
+[2025.12.19-12.52.41:043][380]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.19-12.52.41:061][380]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.19-12.52.41:153][380]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.19-12.52.41:224][380]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.52.41:224][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.52.41:227][380]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.52.41:227][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.52.41:230][380]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.52.41:230][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.52.41:253][380]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.52.41:253][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.52.41:257][380]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.12.19-12.52.41:257][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.19-12.52.41:351][380]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.19-12.52.41:357][380]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.19-12.52.41:394][380]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.12.19-12.52.41:946][380]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.19-12.52.41:946][380]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.19-12.52.41:946][380]LogAudio: Display: Audio Device unregistered from world 'Lvl_TopDown'.
+[2025.12.19-12.52.41:946][380]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.19-12.52.41:946][380]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.12.19-12.52.41:954][380]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.12.19-12.52.41:962][380]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.19-12.52.41:968][380]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.19-12.52.41:971][380]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.12.19-12.52.42:010][380]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.19-12.52.42:010][380]LogExit: Preparing to exit.
+[2025.12.19-12.52.42:420][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.42:424][380]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.19-12.52.43:397][380]LogEditorDataStorage: Deinitializing
+[2025.12.19-12.52.44:600][380]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.19-12.52.45:312][380]LogExit: Editor shut down
+[2025.12.19-12.52.45:319][380]LogExit: Transaction tracking system shut down
+[2025.12.19-12.52.50:952][380]LogExit: Object subsystem successfully closed.
+[2025.12.19-12.52.50:970][380]LogShaderCompilers: Display: Shaders left to compile 0

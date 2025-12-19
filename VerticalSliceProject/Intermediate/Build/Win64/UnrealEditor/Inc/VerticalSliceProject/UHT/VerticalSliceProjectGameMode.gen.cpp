@@ -13,6 +13,7 @@ void EmptyLinkFunctionForGeneratedCodeVerticalSliceProjectGameMode() {}
 
 // ********** Begin Cross Module References ********************************************************
 ENGINE_API UClass* Z_Construct_UClass_AGameModeBase();
+ENGINE_API UClass* Z_Construct_UClass_APlayerStart_NoRegister();
 UPackage* Z_Construct_UPackage__Script_VerticalSliceProject();
 VERTICALSLICEPROJECT_API UClass* Z_Construct_UClass_AVerticalSliceProjectGameMode();
 VERTICALSLICEPROJECT_API UClass* Z_Construct_UClass_AVerticalSliceProjectGameMode_NoRegister();
@@ -66,13 +67,26 @@ struct Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics
 		{ "ToolTip", "Simple Game Mode for a top-down perspective game\nSets the default gameplay framework classes\nCheck the Blueprint derived class for the set values" },
 #endif
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_CachedPlayerStart_MetaData[] = {
+		{ "ModuleRelativePath", "VerticalSliceProjectGameMode.h" },
+	};
 #endif // WITH_METADATA
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_CachedPlayerStart_Inner;
+	static const UECodeGen_Private::FArrayPropertyParams NewProp_CachedPlayerStart;
+	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AVerticalSliceProjectGameMode>::IsAbstract,
 	};
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::NewProp_CachedPlayerStart_Inner = { "CachedPlayerStart", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 0, Z_Construct_UClass_APlayerStart_NoRegister, METADATA_PARAMS(0, nullptr) };
+const UECodeGen_Private::FArrayPropertyParams Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::NewProp_CachedPlayerStart = { "CachedPlayerStart", nullptr, (EPropertyFlags)0x0010000000000000, UECodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AVerticalSliceProjectGameMode, CachedPlayerStart), EArrayPropertyFlags::None, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_CachedPlayerStart_MetaData), NewProp_CachedPlayerStart_MetaData) };
+const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::PropPointers[] = {
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::NewProp_CachedPlayerStart_Inner,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::NewProp_CachedPlayerStart,
+};
+static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::DependentSingletons[])() = {
 	(UObject* (*)())Z_Construct_UClass_AGameModeBase,
 	(UObject* (*)())Z_Construct_UPackage__Script_VerticalSliceProject,
@@ -84,11 +98,11 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_AVerticalSliceProjectGa
 	&StaticCppClassTypeInfo,
 	DependentSingletons,
 	nullptr,
-	nullptr,
+	Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::PropPointers,
 	nullptr,
 	UE_ARRAY_COUNT(DependentSingletons),
 	0,
-	0,
+	UE_ARRAY_COUNT(Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::PropPointers),
 	0,
 	0x008003ADu,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::Class_MetaDataParams), Z_Construct_UClass_AVerticalSliceProjectGameMode_Statics::Class_MetaDataParams)
@@ -109,10 +123,10 @@ AVerticalSliceProjectGameMode::~AVerticalSliceProjectGameMode() {}
 struct Z_CompiledInDeferFile_FID_VerticalSliceProject_Source_VerticalSliceProject_VerticalSliceProjectGameMode_h__Script_VerticalSliceProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AVerticalSliceProjectGameMode, AVerticalSliceProjectGameMode::StaticClass, TEXT("AVerticalSliceProjectGameMode"), &Z_Registration_Info_UClass_AVerticalSliceProjectGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AVerticalSliceProjectGameMode), 2686938342U) },
+		{ Z_Construct_UClass_AVerticalSliceProjectGameMode, AVerticalSliceProjectGameMode::StaticClass, TEXT("AVerticalSliceProjectGameMode"), &Z_Registration_Info_UClass_AVerticalSliceProjectGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AVerticalSliceProjectGameMode), 666402690U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_VerticalSliceProject_Source_VerticalSliceProject_VerticalSliceProjectGameMode_h__Script_VerticalSliceProject_2186990087(TEXT("/Script/VerticalSliceProject"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_VerticalSliceProject_Source_VerticalSliceProject_VerticalSliceProjectGameMode_h__Script_VerticalSliceProject_2614546583(TEXT("/Script/VerticalSliceProject"),
 	Z_CompiledInDeferFile_FID_VerticalSliceProject_Source_VerticalSliceProject_VerticalSliceProjectGameMode_h__Script_VerticalSliceProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_VerticalSliceProject_Source_VerticalSliceProject_VerticalSliceProjectGameMode_h__Script_VerticalSliceProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

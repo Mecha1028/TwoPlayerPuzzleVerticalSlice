@@ -20,6 +20,11 @@ public:
 
 	/** Constructor */
 	AVerticalSliceProjectGameMode();
+
+	virtual void BeginPlay();
+
+	UPROPERTY()
+	TArray<APlayerStart*> CachedPlayerStart;
 };
 
 
