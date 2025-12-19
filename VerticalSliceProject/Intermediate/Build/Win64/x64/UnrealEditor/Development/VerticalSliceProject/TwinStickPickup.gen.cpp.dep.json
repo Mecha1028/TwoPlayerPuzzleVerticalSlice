@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\unrealeditor\\inc\\verticalsliceproject\\uht\\twinstickpickup.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\x64\\verticalsliceprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\verticalsliceproject\\definitions.verticalsliceproject.h",
+            "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\source\\verticalsliceproject\\variant_twinstick\\gameplay\\twinstickpickup.h",
+            "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\unrealeditor\\inc\\verticalsliceproject\\uht\\twinstickpickup.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

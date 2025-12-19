@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\source\\verticalsliceproject\\variant_strategy\\strategygamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\x64\\verticalsliceprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\verticalsliceproject\\definitions.verticalsliceproject.h",
+            "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\source\\verticalsliceproject\\variant_strategy\\strategygamemode.h",
+            "f:\\games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "f:\\games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "f:\\games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "f:\\games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\unrealeditor\\inc\\verticalsliceproject\\uht\\strategygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

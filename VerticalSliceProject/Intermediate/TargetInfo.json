@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VerticalSliceProject",
+			"Path": "..\\Source\\VerticalSliceProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VerticalSliceProjectEditor",
+			"Path": "..\\Source\\VerticalSliceProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\unrealeditor\\inc\\verticalsliceproject\\uht\\strategyhud.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\x64\\verticalsliceprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\verticalsliceproject\\definitions.verticalsliceproject.h",
+            "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\source\\verticalsliceproject\\variant_strategy\\ui\\strategyhud.h",
+            "f:\\games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\hud.h",
+            "f:\\games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\hudhitbox.h",
+            "f:\\games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\gameframework\\debugtextinfo.h",
+            "f:\\games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\debugtextinfo.generated.h",
+            "f:\\games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\hud.generated.h",
+            "e:\\temp\\twoplayerpuzzleverticalslice\\verticalsliceproject\\intermediate\\build\\win64\\unrealeditor\\inc\\verticalsliceproject\\uht\\strategyhud.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

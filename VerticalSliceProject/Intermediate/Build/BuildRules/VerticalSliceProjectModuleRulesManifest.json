@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\temp\\TwoPlayerPuzzleVerticalSlice\\VerticalSliceProject\\Source\\VerticalSliceProject\\VerticalSliceProject.Build.cs",
+		"E:\\temp\\TwoPlayerPuzzleVerticalSlice\\VerticalSliceProject\\Source\\VerticalSliceProject.Target.cs",
+		"E:\\temp\\TwoPlayerPuzzleVerticalSlice\\VerticalSliceProject\\Source\\VerticalSliceProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

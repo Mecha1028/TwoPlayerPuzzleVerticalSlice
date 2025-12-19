@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VerticalSliceProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VerticalSliceProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VerticalSliceProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VerticalSliceProject">
+      <UniqueIdentifier>{AAF1773C-02A7-3072-8D94-C3A05B1F690C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VerticalSliceProject\VerticalSliceProject.Build.cs">
+      <Filter>Source\VerticalSliceProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\VerticalSliceProject.cpp">
+      <Filter>Source\VerticalSliceProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\VerticalSliceProject.h">
+      <Filter>Source\VerticalSliceProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\VerticalSliceProjectCharacter.cpp">
+      <Filter>Source\VerticalSliceProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\VerticalSliceProjectCharacter.h">
+      <Filter>Source\VerticalSliceProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\VerticalSliceProjectGameMode.cpp">
+      <Filter>Source\VerticalSliceProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\VerticalSliceProjectGameMode.h">
+      <Filter>Source\VerticalSliceProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\VerticalSliceProjectPlayerController.cpp">
+      <Filter>Source\VerticalSliceProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\VerticalSliceProjectPlayerController.h">
+      <Filter>Source\VerticalSliceProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\VerticalSliceProject\Variant_Strategy">
+      <UniqueIdentifier>{56FF9B8E-E245-3D7C-85B6-D2E5863F04CB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_Strategy\StrategyGameMode.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_Strategy\StrategyGameMode.h">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_Strategy\StrategyPawn.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_Strategy\StrategyPawn.h">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_Strategy\StrategyPlayerController.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_Strategy\StrategyPlayerController.h">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_Strategy\StrategyUnit.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_Strategy\StrategyUnit.h">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy</Filter>
+    </ClInclude>
+    <Filter Include="Source\VerticalSliceProject\Variant_Strategy\UI">
+      <UniqueIdentifier>{2CF2D69E-D2AB-3536-BE20-291704A00AC8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_Strategy\UI\StrategyHUD.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_Strategy\UI\StrategyHUD.h">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_Strategy\UI\StrategyUI.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_Strategy\UI\StrategyUI.h">
+      <Filter>Source\VerticalSliceProject\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\VerticalSliceProject\Variant_TwinStick">
+      <UniqueIdentifier>{267CC377-74E7-3E92-8274-DADA000471B2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\TwinStickCharacter.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\TwinStickCharacter.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\TwinStickGameMode.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\TwinStickGameMode.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\TwinStickPlayerController.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\TwinStickPlayerController.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick</Filter>
+    </ClInclude>
+    <Filter Include="Source\VerticalSliceProject\Variant_TwinStick\AI">
+      <UniqueIdentifier>{7513FE6B-49B7-3F1A-A411-4FAFB5C4343C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickAIController.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickAIController.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickNPC.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickNPC.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickNPCDestruction.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickNPCDestruction.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickSpawner.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickSpawner.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickStateTreeUtility.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\AI\TwinStickStateTreeUtility.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\VerticalSliceProject\Variant_TwinStick\Gameplay">
+      <UniqueIdentifier>{54A56917-EB65-3E48-B137-B24E935792A3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\Gameplay\TwinStickAoEAttack.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\Gameplay\TwinStickAoEAttack.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\Gameplay\TwinStickPickup.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\Gameplay\TwinStickPickup.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\Gameplay\TwinStickProjectile.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\Gameplay\TwinStickProjectile.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\VerticalSliceProject\Variant_TwinStick\UI">
+      <UniqueIdentifier>{146CB01E-733D-342C-8108-59C1A3CEF23A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\UI\TwinStickUI.cpp">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VerticalSliceProject\Variant_TwinStick\UI\TwinStickUI.h">
+      <Filter>Source\VerticalSliceProject\Variant_TwinStick\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
